@@ -4,6 +4,9 @@ Simple C# Bittorrent client for single-file downloads
 A simple BitTorrent client that utilizes single peer connection and downloads a single-file torrent.
 Download speeds usually max out on ~32KB/s due to lack of multi-peer support.
 
+
+You can find built binaries in SimBitClient/SimBitClient/bin/Release/
+
 # Usage:
 SimBitClient.exe torrentfile
 
